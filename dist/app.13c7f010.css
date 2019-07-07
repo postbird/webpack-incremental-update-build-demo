@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div {
+    color:#FF5000;
+}
+#time { 
+    font-size: 36px;
+}
+#time {
+    color: red;
+    font-size: 28;
+ }
